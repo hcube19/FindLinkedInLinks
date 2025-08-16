@@ -1,0 +1,12 @@
+FindLinkedInLinks
+Copyright (c) 2025
+
+This project uses third-party components licensed under the Apache License 2.0:
+
+- Selenium (Apache License 2.0)
+- OpenAI Python client (Apache License 2.0)
+
+The Apache License 2.0 text is available at:
+http://www.apache.org/licenses/LICENSE-2.0
+
+No modifications to these components are distributed in this repository.

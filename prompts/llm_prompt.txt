@@ -1,0 +1,4 @@
+Given the following LinkedIn profile text, does it mention that {name} is related to company {company}? Only answer YES or NO. Keep in mind that the company name could be differently typed in the LinkedIn profile text.
+
+{main_text}
+{profile_text}
